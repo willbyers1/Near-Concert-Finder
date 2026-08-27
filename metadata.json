@@ -1,0 +1,6 @@
+{
+  "name": "Concert & Festival Finder",
+  "description": "Discover concerts and festivals near you, follow favorite artists, manage your live music calendar, and configure Ticketmaster BYOK.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
