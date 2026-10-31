@@ -72,6 +72,13 @@ npm run start
 
 ---
 
+<div align="center">
+
+**Created by Mert Batu Bülbül**
+💻 Computer Engineering Student (2nd Year Student) 💻
+
+</div>
+
 ## 📜 Ticketmaster API Terms & Compliance
 
 * All ticket purchase buttons link directly to official Ticketmaster URLs (`event.url`).
